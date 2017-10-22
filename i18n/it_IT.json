@@ -1,45 +1,45 @@
 {
-    "language": "English (US)",
+    "language": "Italiano",
     "section_titles": {
-        "donate": "Support Iridium",
-        "general": "General settings",
-        "video": "Video settings",
-        "settings": "Iridium settings"
+        "donate": "Sostieni Iridium",
+        "general": "Impostazioni generali",
+        "video": "Impostazioni video",
+        "settings": "Impostazioni di Iridium"
     },
     "sub_section_titles": {
-        "channel": "Channel",
+        "channel": "Canale",
         "blacklist": "Blacklist",
-        "general": "General",
-        "language": "Language",
+        "general": "Generale",
+        "language": "Lingua",
         "layout": "Layout",
         "miner": "Monero",
         "paypal": "Paypal",
         "patreon": "Patreon",
         "player": "Player",
-        "settings": "Settings",
-        "thumbnails": "Thumbnails"
+        "settings": "Impostazioni",
+        "thumbnails": "Miniature"
     },
     "iridium_api": {
         "settings_button": "Iridium",
-        "feature_link": "Find out what this does"
+        "feature_link": "Scopri le funzionalità"
     },
     "default_logo_page": {
-        "label": "Default YouTube logo page:",
+        "label": "Pagina predefinita del logo di YouTube:",
         "options": [
             "Home",
             "Trending",
-            "Subscriptions"
+            "Iscrizioni"
         ]
     },
     "default_channel_tab": {
-        "label": "Default channel tab:",
+        "label": "Scheda predefinita del canale:",
         "options": [
             "Home",
-            "Videos",
-            "Playlists",
-            "Channels",
-            "Discussion",
-            "About"
+            "Video",
+            "Playlist",
+            "Canali",
+            "Discussione",
+            "Informazioni"
         ]
     },
     "square_avatars": {
